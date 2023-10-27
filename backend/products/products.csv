@@ -1,0 +1,9 @@
+products,description,price,image,id,category,quantity,sale
+iphone X,nice phone,100,https://www.affordablemac.co.uk/wp-content/uploads/2020/01/A1865256SILB.jpg,1,"apple,phone,refurbished",100,0
+iphone 11,really nice phone,200,https://geniusmobile.lk/wp-content/uploads/2019/09/black-11.jpg,2,"apple,phone,new",100,0
+iphone 12,its aight,300,https://phonefix.gr/wp-content/uploads/2022/02/iPhone_12_-900x900.jpg,3,"apple,phone,new",50,0
+Samsung Galaxy Z Flip,sungsam,500,https://sellphones.co.uk/images/eshop/26192512116.jpeg,4,"samsung,phone,new,flip",10,1
+Samsung Galaxy S23 Ultra,veryy nicee,700,https://media.pakprice.pk/288/otRdSrGmyr0jk9jpGFsDSevTiJBtoaK81UGAljcV.jpeg,5,"samsung,phone,new,flip",100,0
+Apple Watch Series 8,ben 10 style,50,https://m.media-amazon.com/images/I/71kbgfN7vWL.__AC_SY445_SX342_QL70_ML2_.jpg,6,"apple,accessory",100,0
+Playstation 5,4 was better,150,https://img.phonandroid.com/2020/06/ps5-black.jpg,7,"Sony,gaming,console",100,0
+DualSense,shocking!,30,https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/02/DualSense-Black-Image.jpeg,8,"Sony,gaming,accessory",15,0
